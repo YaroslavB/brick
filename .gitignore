@@ -2,5 +2,8 @@
 node_modules
 .DS_Store
 brick-*.zip
-/test
+/index.html
+/docs.html
+/download.html
+/demos
 _component-ui-defaults.css
